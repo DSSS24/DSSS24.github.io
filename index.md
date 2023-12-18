@@ -3,7 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-
 ---
 <div>
     <img src="/assets/images/ZHAW_Logo.png" alt="ZHAW Logo" width="auto" height="100" style="margin-right: 20px;margin-bottom: 20px;">

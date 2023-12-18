@@ -10,24 +10,28 @@ permalink: /team/
 [**Patricia Heuberger**](https://www.zhaw.ch/en/about-us/person/heug/)
 
 Head International Relations, ZHAW School of Engineering
-Coordinator
+
+Overall Coordinator
 
 ![Martina Ruf](/assets/images/martina.webp){: width="150" }  
 [**Martina Ruf**](https://www.zhaw.ch/en/ueber-uns/person/eglm)
 
 International Office, ZHAW School of Engineering
+
 Coordinator Logistics and excursions
 
 ![Prof. Paul Leidig](/assets/images/paul.jpg){: width="150" }  
 [**Prof. Paul Leidig**](https://www.gvsu.edu/computing/leidig-paul-50.htm)
 
 Director and lecturer Computer Science Department, GVSU
+
 Coordinator GVSU
 
 ![Prof. Ira Woodring](/assets/images/ira.jpg){: width="150" }  
 [**Prof. Ira Woodring**](https://github.com/irawoodring)
 
 Lecturer Computer Science Department, GVSU
+
 Coordinator GVSU
 
 ## Teaching
@@ -36,18 +40,21 @@ Coordinator GVSU
 [**Dr. Jonathan Fürst**](https://www.zhaw.ch/en/about-us/person/fues/)
 
 Senior Lecturer at the Institute of Applied Information Technology
+
 Lecturer of week 1 at ZHAW SoE on “Data engineering”
 
 ![Dr. Andreas Weiler](/assets/images/andreas.jpg){: width="150" }  
 [**Dr. Andreas Weiler**](https://www.zhaw.ch/en/about-us/person/wele/)
 
 Senior Lecturer at the Institute of Applied Information Technology
+
 Lecturer of week 2 at ZHAW SoE on "Machine Learning"
 
 ![Dr. Manuel Doemer](/assets/images/manuel.webp){: width="150" }  
 [**Dr. Manuel Doemer**](https://www.zhaw.ch/en/about-us/person/doem/)
 
 Programme Director Data Sciences
+
 Lecturer of week 2 at ZHAW SoE on "Machine Learning"
 
 **Lecturers at the GVSU will be featured soon**

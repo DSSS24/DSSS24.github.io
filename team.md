@@ -28,6 +28,7 @@ Summer Schools Coordinator, International Office, ZHAW School of Engineering
 Director and lecturer Computer Science Department, GVSU
 
 **Coordinator GVSU**
+
 ![Prof. Ira Woodring](/assets/images/ira.jpg){: width="150" }  
 [**Prof. Ira Woodring**](https://github.com/irawoodring)
 
@@ -37,6 +38,7 @@ Lecturer Computer Science Department, GVSU
 ## Teaching
 
 **Lecturer of week 1 at ZHAW SoE on “Data engineering”**
+
 ![Dr. Jonathan Fürst](/assets/images/jonathan.jpg){: width="150" }  
 [**Dr. Jonathan Fürst**](https://www.zhaw.ch/en/about-us/person/fues/)
 
@@ -44,6 +46,7 @@ Senior Lecturer at the Institute of Applied Information Technology
 
 
 **Lecturer of week 2 at ZHAW SoE on "Machine Learning"**
+
 ![Dr. Andreas Weiler](/assets/images/andreas.jpg){: width="150" }  
 [**Dr. Andreas Weiler**](https://www.zhaw.ch/en/about-us/person/wele/)
 
@@ -51,6 +54,7 @@ Senior Lecturer at the Institute of Applied Information Technology
 
 
 **Lecturer of week 2 at ZHAW SoE on "Machine Learning"**
+
 ![Dr. Manuel Doemer](/assets/images/manuel.webp){: width="150" }  
 [**Dr. Manuel Doemer**](https://www.zhaw.ch/en/about-us/person/doem/)
 

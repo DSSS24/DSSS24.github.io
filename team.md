@@ -30,17 +30,17 @@ Coordinator GVSU
 
 ![Dr. Jonathan Fürst](/assets/images/jonathan.jpg){: width="150" }  
 **Dr. Jonathan Fürst**  
-_Senior Lecturer at the Institute of Applied Information Technology_
+Senior Lecturer at the Institute of Applied Information Technology
 Lecturer of week 1 at ZHAW SoE on “Data engineering”
 
 ![Dr. Andreas Weiler](/assets/images/andreas.jpg){: width="150" }  
 **Dr. Andreas Weiler**  
-_Senior Lecturer at the Institute of Applied Information Technology_
+Senior Lecturer at the Institute of Applied Information Technology
 Lecturer of week 2 at ZHAW SoE on "Machine Learning"
 
 ![Dr. Manuel Doemer](/assets/images/manuel.webp){: width="150" }  
 **Dr. Manuel Doemer**  
-_Programme Director Data Sciences_
+Programme Director Data Sciences
 Lecturer of week 2 at ZHAW SoE on "Machine Learning"
 
 

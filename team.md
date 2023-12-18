@@ -7,7 +7,7 @@ permalink: /team/
 ## Organization
 
 ![Patricia Heuberger](/assets/images/patricia.webp){: width="150" }  
-**Patricia Heuberger**  
+[**Patricia Heuberger**](https://www.zhaw.ch/en/about-us/person/heug/)
 Head International Relations, ZHAW School of Engineering
 Coordinator
 

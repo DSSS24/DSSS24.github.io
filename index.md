@@ -3,15 +3,13 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Data Analytics and Artificial Intelligence Summer School 2024
----
-
 <div>
     <img src="/assets/images/ZHAW_Logo.png" alt="ZHAW Logo" width="auto" height="100" style="margin-right: 20px;margin-bottom: 20px;">
     <img src="/assets/images/GVSU_Logo.png" alt="GVSU Logo" width="auto" height="100" style="margin-bottom: 20px;">
 </div>
 
-## Data Analytics and Artificial Intelligence
+title: Data Analytics and Artificial Intelligence Summer School 2024
+---
 
 **Dates:** 30 June - 27 July 2024
 

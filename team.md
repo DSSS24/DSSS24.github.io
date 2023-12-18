@@ -13,7 +13,7 @@ Head International Relations, ZHAW School of Engineering
 Coordinator
 
 ![Martina Ruf](/assets/images/martina.webp){: width="150" }  
-[**Martina Ruf**](https://www.zhaw.ch/de/ueber-uns/person/eglm)
+[**Martina Ruf**](https://www.zhaw.ch/en/ueber-uns/person/eglm)
 
 International Office, ZHAW School of Engineering
 Coordinator Logistics and excursions

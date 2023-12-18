@@ -9,11 +9,11 @@ layout: home
     <img src="/assets/images/GVSU_Logo.png" alt="GVSU Logo" width="auto" height="100" style="margin-bottom: 20px;">
 </div>
 
-title: Data Analytics and Artificial Intelligence Summer School 2024
+# Data Analytics and Artificial Intelligence Summer School 2024
 
 **Dates:** 30 June - 27 July 2024
 
-**Location:** 2 weeks on ZHAW School of Engineering campus, Switzerland, 2 weeks on Grand Valley State University campus, USA
+**Location:** 2 weeks on ZHAW School of Engineering campus, Switzerland, <br> 2 weeks on Grand Valley State University campus, USA
 
 **Collaboration:** ZHAW School of Engineering and Grand Valley State University (GVSU), USA
 

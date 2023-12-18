@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Data Science Summer School 2024
+title: Data Analytics and Artificial Intelligence Summer School 2024
 ---
 
 <div>
@@ -15,21 +15,13 @@ title: Data Science Summer School 2024
 
 **Dates:** 30 June - 27 July 2024
 
-**Location:** 2 weeks on SoE campus, Switzerland, 2 weeks on GVSU campus, USA
+**Location:** 2 weeks on ZHAW School of Engineering campus, Switzerland, 2 weeks on Grand Valley State University campus, USA
 
 **Collaboration:** ZHAW School of Engineering and Grand Valley State University (GVSU), USA
 
 
 
-
-
-### Information Session
-
-- **Date:** Thursday, 30 November 2023
-- **Time:** 17:45
-- **Platform:** MS Teams
-
-### Eligible Study Programmes
+### Eligible Study Programmes at ZHAW School of Engineering
 
 - Computer Science (IT)
 - Data Science (DS)
@@ -37,9 +29,9 @@ title: Data Science Summer School 2024
 - Systems Engineering (ST)
 - Engineering and Management (WI)
 
-### Eligibility
+### Eligibilie Term Level
 
-- Completed 2nd year (full-time) and completed 3rd year (part-time)
+- Completed 2nd year (full-time students) and completed 3rd year (part-time students)
 
 ### Registration Deadline
 

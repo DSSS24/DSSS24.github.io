@@ -39,7 +39,7 @@ Completed 2nd year/4th semester (full-time students) and completed 3rd year/6th 
 **Detailed information and registration for ZHAW students**
 On the Intranet
 [Summer School 2024 Registration](http://bit.ly/SoE_summer_school_2024)
-Have a look at the Informationsheet 
+Have a look at the [Informationsheet](/assets/)
 
 ![Impression1](/assets/images/img1.png)
 ![Impression2](/assets/images/img2.png)

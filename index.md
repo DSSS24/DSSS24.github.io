@@ -37,8 +37,11 @@ Completed 2nd year/4th semester (full-time students) and completed 3rd year/6th 
 31 January 2024
 
 **Detailed information and registration for ZHAW students**
+
 On the Intranet
+
 [Summer School 2024 Registration](http://bit.ly/SoE_summer_school_2024)
+
 Have a look at the [Informationsheet](/assets/Infosheet_GVSU_Summer_School_2024_.pdf)
 
 ![Impression1](/assets/images/img1.png)

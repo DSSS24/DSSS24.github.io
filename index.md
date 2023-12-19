@@ -40,7 +40,7 @@ Completed 2nd year/4th semester (full-time students) and completed 3rd year/6th 
 
 On the Intranet
 
-[Summer School 2024 Registration](http://bit.ly/SoE_summer_school_2024)
+[Summer School 2024 information and registration](http://bit.ly/SoE_summer_school_2024)
 
 Have a look at the [Informationsheet](/assets/Infosheet_GVSU_Summer_School_2024_.pdf)
 

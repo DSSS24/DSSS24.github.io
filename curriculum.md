@@ -12,7 +12,7 @@ Preparatory documents for the ML part will be distributed beforehand. It is expe
 English Level B2 is compulsory.
 
 ## Programme structure 
-During the mornings, you will receive inputs and lectures, followed by structured excercises. In the afternoon you will work in teams on a challenge /task as project work.
+During the mornings, you will receive inputs and lectures, followed by structured excercises in a lab. In the afternoon you will work in teams on a challenge /task as project work.
 
 At the end of week two (part ZHAW SoE), the teams will present their solutions to a jury.
 
@@ -23,8 +23,8 @@ Topical and touristic excursion complement the academic curriculum.
 ### Week 1 at ZHAW: Data Engineering 
 |--------|Sat 29.6|Sun 30.6|Mon 1.7|Tue 2.7|Wen 3.7|Thu 4.7|Fri 5.7|Sat 6.7|Son 7.7.|
 |--------|---------|--------|-------|-------|-------|-------|-------|-------|--------|
-|Morning |         |        |*Lecture*: Data Science-Process and Elements of Exploratory Data Analysis, *Lab*: Development Environment and The Python Data Science stack|*Lecture:* Data Curation, Data Integration, Data Extraction, Data Wrangling and Exploration, Record Linkage, *Lab*:Data Extraction, Data Wrangling and Exploration|*Lecture*: Pre-processing and Feature Extraction, Unstructured Data: Text and Images, *Lab*: tbd|*Lecture*: Data Annotation and Scaling, Data Centric AI, Big Data, *Lab*: Data Annotation and Parallel data processing with Dask| 
-|Afternoon|Arrival US guests|Welcome Barbecue|Data Science Project: Introduction and Selection of Project|Data Science Project: Project Work, Data Management, Data Report|Data Science Project: Project work in groups and individual supervision|Project checkpoint presentations and discussions|
+|Morning |         |        |*Lecture*: Data Science-Process and Elements of Exploratory Data Analysis, *Lab*: Development Environment and The Python Data Science stack|*Lecture:* Data Curation, Data Integration, Data Extraction, Data Wrangling and Exploration, Record Linkage, *Lab*:Data Extraction, Data Wrangling and Exploration|*Lecture*: Pre-processing and Feature Extraction, Unstructured Data: Text and Images, *Lab*: tbd|*Lecture*: Data Annotation and Scaling, Data Centric AI, Big Data, *Lab*: Data Annotation and Parallel data processing with Dask|Topical excursion to a company dealing with large data sets (full day)|
+|Afternoon|Arrival US guests|Welcome Barbecue|Data Science Project: Introduction and Selection of Project|Data Science Project: Project Work, Data Management, Data Report|Data Science Project: Project work in groups and individual supervision|Project checkpoint presentations and discussions|4 pm: Frack parade and night of technology at ZHAW SoE|
 
 
 ## Week 2: Machine Learning (ZHAW)

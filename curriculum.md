@@ -3,7 +3,7 @@ layout: page
 title: Curriculum
 permalink: /curriculum/
 ---
-## Prerequisites ##
+## Prerequisites 
 
 To participate in the summer school students need to master the **basics in Linear Algebra and Analysis** and have an **advanced level in Python programming**.
 
@@ -11,16 +11,20 @@ Preparatory documents for the ML part will be distributed beforehand. It is expe
 
 English Level B2 is compulsory.
 
-## Programme structure ##
+## Programme structure 
 During the mornings, you will receive inputs and lectures, followed by structured excercises. In the afternoon you will work in teams on a challenge /task as project work.
 
 At the end of week two (part ZHAW SoE), the teams will present their solutions to a jury.
 
-Topical and toristic excursion complement the academic curriculum.
+Topical and touristic excursion complement the academic curriculum.
 
-## Programme ##
+## Programme 
 
-## Week 1: Data Engineering (ZHAW)
+### Week 1 at ZHAW: Data Engineering 
+|Sat 29 .6|Sun 30.6|Mon 1.7|Tue 2.7|Wen 3.7|Thu 4.7|Fri 5.7|Sat 6.7|Son 7.7.|
+|---------|--------|-------|-------|-------|-------|-------|-------|--------|
+|Arrival US guests|
+
 
 ## Week 2: Machine Learning (ZHAW)
 

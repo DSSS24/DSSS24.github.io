@@ -13,7 +13,7 @@ layout: home
 
 **Dates:** 30 June - 27 July 2024
 
-**Location:** 2 weeks on ZHAW School of Engineering, Switzerland (30 June-12 July), <br> 2 weeks on Grand Valley State University campus, USA (15 July – 27 July)
+**Location:** 2 weeks on ZHAW School of Engineering campus, Switzerland (30 June-12 July), <br> 2 weeks on Grand Valley State University campus, USA (15 July – 27 July)
 
 **Collaboration:** ZHAW School of Engineering and Grand Valley State University (GVSU), U
 

@@ -19,7 +19,9 @@ layout: home
 
 
 **Eligible Study Programmes at ZHAW School of Engineering**
+
 Full-time and part-time students are eligible to participate
+
 - Computer Science (IT)
 - Data Science (DS)
 - Electrical Engineering (ET)

@@ -17,7 +17,7 @@ layout: home
 
 **Collaboration:** [ZHAW School of Engineering](https://www.zhaw.ch/en/engineering/) and [Grand Valley State University (GVSU)](https://www.gvsu.edu/engineering/)
 
-**Eligible Study Programmes at ZHAW School of Engineering**
+**Eligible Study Programmes at ZHAW School of Engineering:**
 
 Full-time and part-time students are eligible to participate
 
@@ -27,19 +27,19 @@ Full-time and part-time students are eligible to participate
 - Systems Engineering (ST)
 - Engineering and Management (WI)
 
-**Eligibilie Term Level**
+**Eligibilie Term Level:**
 
 Completed 2nd year/4th semester (full-time students) and completed 3rd year/6th semester (part-time students)
 
-**ECTS credits**: 6 ECTS will be awarded for the summer school.
+**ECTS credits:** 6 ECTS will be awarded for the summer school.
 
-**Costs**: 2'700 - 3'200 CHF (depends on the number of participants and includes fee, boarding and flight costs)
+**Costs:** 2'700 - 3'200 CHF (depends on the number of participants and includes fee, boarding and flight costs)
 
-**Registration Deadline**
+**Registration Deadline:**
 
 31 January 2024
 
-**Detailed information and registration for ZHAW students**
+**Detailed information and registration for ZHAW students:**
 
 On the Intranet
 

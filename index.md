@@ -42,7 +42,7 @@ On the Intranet
 
 [Summer School 2024 information and registration](http://bit.ly/SoE_summer_school_2024)
 
-Have a look at the [Informationsheet](/assets/Infosheet_GVSU_Summer_School_2024_.pdf)
+Have a look at the [Informationsheet](/assets/images/Infosheet_GVSU_Summer_School_2024_.pdf)
 
 ![Impression1](/assets/images/img1.png)
 ![Impression2](/assets/images/img2.png)

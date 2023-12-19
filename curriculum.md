@@ -23,9 +23,8 @@ Topical and touristic excursion complement the academic curriculum.
 ### Week 1 at ZHAW: Data Engineering 
 |--------|Sat 29 .6|Sun 30.6|Mon 1.7|Tue 2.7|Wen 3.7|Thu 4.7|Fri 5.7|Sat 6.7|Son 7.7.|
 |--------|---------|--------|-------|-------|-------|-------|-------|-------|--------|
-|Morning |         |        |Data Science-Process and Elements of Exploratory Data Analysis 
-Lab: Development Environment and The Python Data Science stack| 
-|Afternoon|Arrival US guests|Welcome Barbecue|Data Science Project Introduction and Selection of Project|
+|Morning |         |        |Lecture on Data Science-Process and Elements of Exploratory Data Analysis, Lab: Development Environment and The Python Data Science stack| 
+|Afternoon|Arrival US guests|Welcome Barbecue|Data Science Project: Introduction and Selection of Project|
 
 
 ## Week 2: Machine Learning (ZHAW)

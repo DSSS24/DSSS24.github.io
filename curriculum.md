@@ -21,9 +21,10 @@ Topical and touristic excursion complement the academic curriculum.
 ## Programme (tbc)
 
 ### Week 1 at ZHAW: Data Engineering 
-|Sat 29 .6|Sun 30.6|Mon 1.7|Tue 2.7|Wen 3.7|Thu 4.7|Fri 5.7|Sat 6.7|Son 7.7.|
-|---------|--------|-------|-------|-------|-------|-------|-------|--------|
-|Arrival US guests|Welcome Barbecue|
+|--------|Sat 29 .6|Sun 30.6|Mon 1.7|Tue 2.7|Wen 3.7|Thu 4.7|Fri 5.7|Sat 6.7|Son 7.7.|
+|--------|---------|--------|-------|-------|-------|-------|-------|-------|--------|
+|Morning |  |        |
+|Afternoon|Arrival US guests|Welcome Barbecue|
 
 
 ## Week 2: Machine Learning (ZHAW)

@@ -33,7 +33,7 @@ Completed 2nd year/4th semester (full-time students) and completed 3rd year/6th 
 
 **ECTS credits**: 6 ECTS will be awarded for the summer school.
 
-**Cotst**: 2'700 - 3'200 CHF (depends on the number of participants and includes fee, boarding and flight costs)
+**Costs**: 2'700 - 3'200 CHF (depends on the number of participants and includes fee, boarding and flight costs)
 
 **Registration Deadline**
 

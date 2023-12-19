@@ -21,10 +21,10 @@ Topical and touristic excursion complement the academic curriculum.
 ## Programme (tbc)
 
 ### Week 1 at ZHAW: Data Engineering 
-|--------|Sat 29 .6|Sun 30.6|Mon 1.7|Tue 2.7|Wen 3.7|Thu 4.7|Fri 5.7|Sat 6.7|Son 7.7.|
+|--------|Sat 29.6|Sun 30.6|Mon 1.7|Tue 2.7|Wen 3.7|Thu 4.7|Fri 5.7|Sat 6.7|Son 7.7.|
 |--------|---------|--------|-------|-------|-------|-------|-------|-------|--------|
-|Morning |         |        |*Lecture*: Data Science-Process and Elements of Exploratory Data Analysis, *Lab*: Development Environment and The Python Data Science stack|*Lecture:* Data Curation, Data Integration, Data Extraction, Data Wrangling and Exploration, Record Linkage, *Lab:*Data Extraction, Data Wrangling and Exploration| 
-|Afternoon|Arrival US guests|Welcome Barbecue|Data Science Project: Introduction and Selection of Project|Data Science Project: Project Work, Data Management, Data Report| 
+|Morning |         |        |*Lecture*: Data Science-Process and Elements of Exploratory Data Analysis, *Lab*: Development Environment and The Python Data Science stack|*Lecture:* Data Curation, Data Integration, Data Extraction, Data Wrangling and Exploration, Record Linkage, *Lab*:Data Extraction, Data Wrangling and Exploration|*Lecture*: Pre-processing and Feature Extraction, Unstructured Data: Text and Images, *Lab*: tbd|  
+|Afternoon|Arrival US guests|Welcome Barbecue|Data Science Project: Introduction and Selection of Project|Data Science Project: Project Work, Data Management, Data Report|Data Science Project: Project work in groups and individual supervision|
 
 
 ## Week 2: Machine Learning (ZHAW)

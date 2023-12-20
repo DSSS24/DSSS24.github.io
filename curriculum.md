@@ -8,7 +8,7 @@ permalink: /curriculum/
 
 To participate in the summer school students need to master the **basics in Linear Algebra and Analysis** and have an **advanced level in Python programming**.
 
-Preparatory documents for the ML part will be distributed beforehand. It is expected that the students prepare themselves with these documents for the summer school.
+Preparatory material to reach a bsaic level in **Machine Learning** will be distributed beforehand. It is expected that the students prepare themselves with these documents for the summer school.
 
 English Level B2 is compulsory.
 

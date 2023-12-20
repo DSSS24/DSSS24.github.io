@@ -1,3 +1,4 @@
+
 ---
 layout: page
 title: Curriculum
@@ -34,6 +35,7 @@ Topical and touristic excursion complement the academic curriculum.
 |--------|---------|--------|-------|-------|-------|-------|
 |Morning |*Lecture*: Regression, Classification, Evaluation, *Lab*: Supervised Learning using the Python Stack|*Lecture:* Data Curation, Data Integration, Data Extraction, Data Wrangling and Exploration, Record Linkage, *Lab*:Data Extraction, Data Wrangling and Exploration|*Lecture*: Pre-processing and Feature Extraction, Unstructured Data: Text and Images, *Lab*: tbd|*Lecture*: Data Annotation and Scaling, Data Centric AI, Big Data, *Lab*: Data Annotation and Parallel data processing with Dask|Topical excursion to a company dealing with large data sets (full day)|Excursion Rhine Fall & Alpstein Mountain Range incl overnight stay|Excursion Rhine Fall & Alpstein Mountain Range incl overnight stay|
 |Afternoon|*Data Science Project*: Project work in groups and individual supervision|Data Science Project: Project Work, Data Management, Data Report|Data Science Project: Project work in groups and individual supervision|Project checkpoint presentations and discussions|4 pm: Frack parade and night of technology at ZHAW SoE|Excursion Rhine Fall & Alpstein Mountain Range incl overnight stay|Excursion Rhine Fall & Alpstein Mountain Range incl overnight stay|
+
 ## Week 3: Deep Learning (GVSU)
 
 ## Week 4: Data Visualization (GVSU)

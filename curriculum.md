@@ -1,9 +1,9 @@
-
 ---
 layout: page
 title: Curriculum
 permalink: /curriculum/
 ---
+
 ## Prerequisites 
 
 To participate in the summer school students need to master the **basics in Linear Algebra and Analysis** and have an **advanced level in Python programming**.

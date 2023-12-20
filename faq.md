@@ -37,5 +37,11 @@ Do you have additional questions to be clarified, which are not covered here? Do
 # Content Questions
 
 *Do I need to preapre content-wise for the summer school?*
+
 Yes, there will be preparatory material distributed for the Machine Learning part which you are expected to study beforehand. Further pre-requisites are listed on the [curriculum sub-page](path/to/curriculum.md).
+
+*If I had already topics covered by the summer school curriculum during my previous studies; is it still worthwhile to participate*?
+
+Yes, it is. The curriculum is set-up in way that you will work in teams to tackle a challenge and solve a concrete problem. The challenge/Problems stem from the institutes and are real research-based challenges to solve. You will apply your knowledge and expertise, gained during the summer school and beforehand, to solc ethese challenges in intercultural and interdisciplinary teams.
+
 

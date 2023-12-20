@@ -4,7 +4,7 @@ title: Team
 permalink: /team/
 ---
 
-## Organization
+## Coordinators
 
 **Overall Coordinator ZHAW SoE**
 

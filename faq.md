@@ -44,4 +44,5 @@ Yes, there will be preparatory material distributed for the Machine Learning par
 
 Yes, it is. The curriculum is set-up in way that you will work in teams to tackle a challenge and solve a concrete problem. The challenge/Problems stem from the institutes and are real research-based challenges to solve. You will apply your knowledge and expertise, gained during the summer school and beforehand, to solc ethese challenges in intercultural and interdisciplinary teams.
 
+Do you have additional questions to be clarified, which are not covered here? Do not hesitate to reach out to Dr. Manuel Dömer at [manuel.doemer@zhaw.ch](manuel.doemer@zhaw.ch).
 

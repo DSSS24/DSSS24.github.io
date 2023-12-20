@@ -18,6 +18,11 @@ ZHAW students need to book and pay the returnt flight to Chicago by themselves. 
 *How can I reach Allendale from Chicago?*
 
 The easiest and most convinient way is to rent and share a care with other students. The car ride from Chicago to Allendale will take you around 3 hrs. There is also a train connection which lasts for around 4 hrs. However, there are only few trains per day running. And finally, there is also the  Greyhound coach connecting the two cities, which will take you around 4 hrs.  
+The Swiss driving licence is valid in the USA. However, you need to be at least 25 years old to be entitled to rent a car.
+
+*Do I need to travel back to Switzerland straight after the summer school, or is there an option to extend the stay in the USA and travel back later?
+
+Yes, you can extend your stay and continue with your vacation or other travels, back-to-back to the summer school.
 
 
 ## Content Questions

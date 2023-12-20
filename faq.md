@@ -36,5 +36,6 @@ Do you have additional questions to be clarified, which are not covered here? Do
 
 # Content Questions
 
-
+*Do I need to preapre content-wise for the summer school?*
+Yes, there will be preparatory material distributed for the Machine Learning part which you are expected to study beforehand. Further pre-requisites are listed on teh curriculum sub-page.
 

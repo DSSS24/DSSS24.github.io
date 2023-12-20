@@ -28,7 +28,8 @@ Topical and touristic excursion complement the academic curriculum.
 |Afternoon|Arrival US guests|Welcome Barbecue|Data Science Project: Introduction and Selection of Project|Data Science Project: Project Work, Data Management, Data Report|Data Science Project: Project work in groups and individual supervision|Project checkpoint presentations and discussions|4 pm: Frack parade and night of technology at ZHAW SoE|Excursion Rhine Fall & Alpstein Mountain Range incl overnight stay|Excursion Rhine Fall & Alpstein Mountain Range incl overnight stay|
 
 
-## Week 2: Machine Learning (ZHAW), lecturers Dr. Manuel Dömer and Dr. Andreas Weil
+## Week 2: Machine Learning (ZHAW), lecturers Dr. Manuel Dömer and Dr. Andreas Weiler
+
 
 |        |Mon 8.7|Tue 9.7|Wen 10.7|Thu 11.7|Fri 12.7|Sat 13.7|
 |--------|---------|--------|-------|-------|-------|-------|

@@ -27,7 +27,7 @@ Full-time and part-time students are eligible to participate
 - Systems Engineering (ST)
 - Engineering and Management (WI)
 
-**Eligibilie Term Level:**
+**Eligible Term Level:**
 
 Completed 2nd year/4th semester (full-time students) and completed 3rd year/6th semester (part-time students)
 

@@ -32,4 +32,6 @@ For the ZHAW students, there will be a remote meeting in May. Final questions ca
 
 Yes, this is an integral part of the curriculum and team building.
 
+Do you have additional questions to be clarified, which are not covered here? Do not hesitate to reach out to Patricia Heuberger at (patricia.heuberger@zhaw.ch).
+
 ## Content Questions

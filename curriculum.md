@@ -28,8 +28,12 @@ Topical and touristic excursion complement the academic curriculum.
 |Afternoon|Arrival US guests|Welcome Barbecue|Data Science Project: Introduction and Selection of Project|Data Science Project: Project Work, Data Management, Data Report|Data Science Project: Project work in groups and individual supervision|Project checkpoint presentations and discussions|4 pm: Frack parade and night of technology at ZHAW SoE|Excursion Rhine Fall & Alpstein Mountain Range incl overnight stay|Excursion Rhine Fall & Alpstein Mountain Range incl overnight stay|
 
 
-## Week 2: Machine Learning (ZHAW)
+## Week 2: Machine Learning (ZHAW), lecturers Dr. Manuel Dömer and Dr. Andreas Weil
 
+|        |Mon 8.7|Tue 9.7|Wen 10.7|Thu 11.7|Fri 12.7|Sat 13.7|
+|--------|---------|--------|-------|-------|-------|-------|
+|Morning |         |        |*Lecture*: Data Science-Process and Elements of Exploratory Data Analysis, *Lab*: Development Environment and The Python Data Science stack|*Lecture:* Data Curation, Data Integration, Data Extraction, Data Wrangling and Exploration, Record Linkage, *Lab*:Data Extraction, Data Wrangling and Exploration|*Lecture*: Pre-processing and Feature Extraction, Unstructured Data: Text and Images, *Lab*: tbd|*Lecture*: Data Annotation and Scaling, Data Centric AI, Big Data, *Lab*: Data Annotation and Parallel data processing with Dask|Topical excursion to a company dealing with large data sets (full day)|Excursion Rhine Fall & Alpstein Mountain Range incl overnight stay|Excursion Rhine Fall & Alpstein Mountain Range incl overnight stay|
+|Afternoon|Arrival US guests|Welcome Barbecue|Data Science Project: Introduction and Selection of Project|Data Science Project: Project Work, Data Management, Data Report|Data Science Project: Project work in groups and individual supervision|Project checkpoint presentations and discussions|4 pm: Frack parade and night of technology at ZHAW SoE|Excursion Rhine Fall & Alpstein Mountain Range incl overnight stay|Excursion Rhine Fall & Alpstein Mountain Range incl overnight stay|
 ## Week 3: Deep Learning (GVSU)
 
 ## Week 4: Data Visualization (GVSU)

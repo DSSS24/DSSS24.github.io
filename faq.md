@@ -26,7 +26,7 @@ Yes, you can extend your stay and continue with your vacation or other travels, 
 
 *Is there a pre-meeting for the participating students?*
 
-For the ZHAW students, there will be a remote meeting in May. Final questions can be clarified and the students can get to know each other during this meeting.
+For the ZHAW students, there will be a remote meeting in March. Final questions can be clarified and the students can get to know each other during this meeting.
 
 *Is it compulsory to participate in the weekend activities/excursions?*
 

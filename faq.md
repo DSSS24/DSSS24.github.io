@@ -38,7 +38,7 @@ Do you have additional questions to be clarified, which are not covered here? Do
 
 *Do I need to prepare content-wise for the summer school?*
 
-Yes, there will be preparatory material distributed for the Machine Learning part which you are expected to study beforehand. Further pre-requisites are listed on the [curriculum sub-page](path/to/curriculum.md)
+Yes, there will be preparatory material distributed for the Machine Learning part which you are expected to study beforehand. Further pre-requisites are listed on the curriculum sub-page.
 
 *If I had already topics covered by the summer school curriculum during my previous studies; is it still worthwhile to participate*?
 

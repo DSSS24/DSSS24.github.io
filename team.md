@@ -70,4 +70,6 @@ Programme Director Data Sciences
 
 **Lecturer of week 4 at GVSU on "Data Visualization"**
 
+![Dr. Jonathan Leidig](
+
 [**Dr. Jonathan Leidig**](https://www.gvsu.edu/computing/leidig-jonathan-49.htm) 

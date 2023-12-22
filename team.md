@@ -63,7 +63,7 @@ Programme Director Data Sciences
 
 **Lecturer of week 3 at GVSU on "Deep Learning"**
 
-![Dr.Denton Bobeldyk] 
+![Dr.Denton Bobeldyk](assets/images/bobeldyk.jpg) 
 
 
 **Lecturer of week 4 at GVSU on "Data Visualization"**

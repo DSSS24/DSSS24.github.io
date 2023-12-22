@@ -21,9 +21,7 @@ Topical and touristic excursion complement the academic curriculum.
 
 ## Programme (tbc)
 
-
-**DOWNLOAD THE DRAFT SYLLABUS OF THE CURRICULUM**(assets/images/Summer School Data Analytics and Artificial Intelligence_Syllabus_v3_web_Dec 23.pdf)
-
+[**DOWNLOAD THE DRAFT SYLLABUS OF THE CURRICULUM**](assets/images/Summer School Data Analytics and Artificial Intelligence_Syllabus_v3_web_Dec 23.pdf)
 
 ### Week 1 at ZHAW: Data Engineering, lecturer: Dr. Jonathan Fürst 
 

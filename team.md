@@ -30,7 +30,7 @@ Director and lecturer Computer Science Department, GVSU
 **Coordinator GVSU**
 
 ![Prof. Ira Woodring](/assets/images/ira.jpg){: width="150" }  
-[**Prof. Ira Woodring**](https://github.com/irawoodring)
+[**Prof. Ira Woodring**](https://www.gvsu.edu/computing/leidig-paul-50.htm)
 
 Lecturer Computer Science Department, GVSU
 

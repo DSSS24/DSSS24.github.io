@@ -4,7 +4,7 @@ title: Team
 permalink: /team/
 ---
 
-## Coordinators
+# Coordinators
 
 **Overall Coordinator ZHAW SoE**
 
@@ -35,7 +35,7 @@ Director and lecturer Computer Science Department, GVSU
 Lecturer Computer Science Department, GVSU
 
 
-## Teaching
+# Teaching
 
 **Lecturer of week 1 at ZHAW SoE on “Data engineering”**
 

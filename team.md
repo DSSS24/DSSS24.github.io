@@ -65,11 +65,11 @@ Programme Director Data Sciences
 
 ![Dr.Denton Bobeldyk](assets/images/bobeldyk.jpg){: width="150" }
 
-[**Dr.Denton Bobeldyk**](https://www.gvsu.edu/computing/bobeldyk-denton-20.htm)
+[**Dr. Denton Bobeldyk**](https://www.gvsu.edu/computing/bobeldyk-denton-20.htm)
 
 
 **Lecturer of week 4 at GVSU on "Data Visualization"**
 
-![Dr. Jonathan Leidig](assets/images/jonathanleidig.jpg)
+![Dr. Jonathan Leidig](assets/images/jonathanleidig.jpg){: width="150" }
 
 [**Dr. Jonathan Leidig**](https://www.gvsu.edu/computing/leidig-jonathan-49.htm) 

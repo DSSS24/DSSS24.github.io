@@ -61,12 +61,12 @@ Senior Lecturer at the Institute of Applied Information Technology
 Programme Director Data Sciences
 
 
-**Lecturer of week 3 at ZHAW SoE on "Deep Learning"**
+**Lecturer of week 3 at GVSU on "Deep Learning"**
 
 
 
 [**Dr. Denton Bobeldyk**](https://www.gvsu.edu/computing/bobeldyk-denton-20.htm) 
 
-**Lecturer of week 4 at ZHAW SoE on "Data Visualization"**
+**Lecturer of week 4 at GVSU on "Data Visualization"**
 
 [**Dr. Jonathan Leidig**](https://www.gvsu.edu/computing/leidig-jonathan-49.htm) 

@@ -67,6 +67,7 @@ Programme Director Data Sciences
 
 [**Dr. Denton Bobeldyk**](https://www.gvsu.edu/computing/bobeldyk-denton-20.htm)
 
+Lecturer on pattern recognition, machine learning, artificial intelligence and biometrics at GVSU.
 
 **Lecturer of week 4 at GVSU on "Data Visualization"**
 

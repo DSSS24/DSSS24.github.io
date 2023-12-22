@@ -74,3 +74,6 @@ Lecturer on pattern recognition, machine learning, artificial intelligence and b
 ![Dr. Jonathan Leidig](assets/images/jonathanleidig.jpg){: width="150" }
 
 [**Dr. Jonathan Leidig**](https://www.gvsu.edu/computing/leidig-jonathan-49.htm) 
+
+Lecturer on databases, data engineering, data structures and algorithms, health informatics and bioinformatics, and information visualization at GVSU.
+

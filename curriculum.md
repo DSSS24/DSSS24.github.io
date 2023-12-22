@@ -21,7 +21,7 @@ Topical and touristic excursion complement the academic curriculum.
 
 ## Programme (tbc)
 
-**DOWNLOAD THE DRAFT SYLLABUS OF THE CURRICULUM**(
+**DOWNLOAD THE DRAFT SYLLABUS OF THE CURRICULUM**((assets/images/)
 
 ### Week 1 at ZHAW: Data Engineering, lecturer: Dr. Jonathan Fürst 
 

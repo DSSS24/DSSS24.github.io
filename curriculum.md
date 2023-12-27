@@ -33,18 +33,18 @@ Topical and touristic excursion complement the academic curriculum.
 |Afternoon|Arrival US guests|Welcome Barbecue|Data Science Project: Introduction and Selection of Project|Data Science Project: Project Work, Data Management, Data Report|Data Science Project: Project work in groups and individual supervision|Project checkpoint presentations and discussions|4 pm: Frack parade and night of technology at ZHAW SoE|Excursion Rhine Fall & Alpstein Mountain Range incl overnight stay|Short hike and transfer back to Wintherthur|
 
 
-## Week 2: Machine Learning (ZHAW), lecturers Dr. Manuel Dömer and Dr. Andreas Weiler
+### Week 2: Machine Learning (ZHAW), lecturers Dr. Manuel Dömer and Dr. Andreas Weiler
 
 |        |Mon 8.7|Tue 9.7|Wen 10.7|Thu 11.7|Fri 12.7|Sat 13.7|
 |--------|---------|--------|-------|-------|-------|-------|
 |Morning |*Lecture*: Regression, Classification, Evaluation, *Lab*: Supervised Learning using the Python Stack| *Lecture*: Clustering, Anomaly Detection, Evaluation, *Lab*:  Unsupervised Learning using the Python Stack|*Lecture*: Association rules- recommender systems, *Lab*:  Recommender Systems using the Python Stack|*Data Science Project*: Project work in groups and individual supervision|Full day excursion to Berne incl visit of the federal parliament building|Transfer to Allendale, Michigan, USA for second part of summer school on the GVSU campus|
 |Afternoon|*Data Science Project*: Project work in groups and individual supervision|*Data Science Project*: Project work in groups and individual supervision|*Data Science Project*: Project work in groups and individual supervision|*Data Science Project*: Project presentations and discussions, evaluation, celebration and reception|Full day excursion to Berne incl visit of the federal parliament building|Transfer to Allendale, Michigan, USA for second part of summer school on the GVSU campus|
 
-## Week 3: Deep Learning (GVSU), lecturer Dr. Denton Bobeldyk
+### Week 3: Deep Learning (GVSU), lecturer Dr. Denton Bobeldyk
 
 |        |Mon 15.7|Tue 16.7|Wen 17.7|Thu 18.7|Fri 19.7|Sat 20.7|
 |--------|---------|--------|-------|-------|-------|-------|
 |Morning|*Lecture*: Convolutional Neural Networks, Deep learning evaluation methods, *Group Lab*|*Lecture*: Deep learning dataset management and augmentation, *Group Lab*|*Lecture*: Deep learning evaluation methods, Autoencoders & GANs, *Group Lab*|*Lecture*: Introduction to Group Deep Learning, *Project Lab presentation preparation*|Excursion to [Sleeping Bear Dunes](https://www.nps.gov/slbe/index.htm)|Tour historic Fort Michilimackinac and ferry to [Mackinac Island](https://www.mackinacisland.org/)|
 |Afternoon|Group Deep Learning Project and Morning Lecture Review Kahoot|Group Deep Learning Project and Morning Lecture Review Kahoot|Group Deep Learning Project and Morning Lecture Review Kahoot|Project presentations, discussions, evaluation and celebration|Catamaran Ride and overnight stay in Mackinaw City, MI|Transfer back to Allendale|
 
-## Week 4: Data Visualization (GVSU)
+### Week 4: Data Visualization (GVSU)

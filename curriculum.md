@@ -44,7 +44,7 @@ Topical and touristic excursion complement the academic curriculum.
 
 |        |Mon 15.7|Tue 16.7|Wen 17.7|Thu 18.7|Fri 19.7|Sat 20.7|
 |--------|---------|--------|-------|-------|-------|-------|
-|**Morning**|*Lecture*: Convolutional Neural Networks, Deep learning evaluation methods, *Group Lab*|*Lecture*: Deep learning dataset management and augmentation, *Group Lab*|*Lecture*: Deep learning evaluation methods, Autoencoders & GANs, *Group Lab*|*Lecture*: Introduction to Group Deep Learning, *Project Lab presentation preparation*|Excursion to [Sleeping Bear Dunes](https://www.nps.gov/slbe/index.htm)|Tour historic Fort Michilimackinac and ferry to [Mackinac Island](https://www.mackinacisland.org/)|
+|**Morning**|*Lecture*: Convolutional Neural Networks, Deep learning evaluation methods, *Group Lab*|*Lecture*: Deep learning dataset management and augmentation, *Group Lab*|*Lecture*: Deep learning evaluation methods, Autoencoders & GANs, *Group Lab*|*Lecture*: Introduction to Group Deep Learning, *Project Lab presentation preparation*|Excursion to [Sleeping Bear Dunes](https://www.nps.gov/slbe/index.htm)|Tour [historic Fort Michilimackinac](https://www.mackinacparks.com/parks-and-attractions/fort-mackinac/) and ferry to [Mackinac Island](https://www.mackinacisland.org/)|
 |**Afternoon**|Group Deep Learning Project and Morning Lecture Review Kahoot|Group Deep Learning Project and Morning Lecture Review Kahoot|Group Deep Learning Project and Morning Lecture Review Kahoot|Project presentations, discussions, evaluation and celebration|Catamaran Ride and overnight stay in [Mackinaw City, MI](https://mackinawcity.com/)|Transfer back to Allendale|
 
 ### Week 4: Data Visualization (GVSU), lecturer  Dr. Jonathan Leidig

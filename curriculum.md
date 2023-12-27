@@ -8,18 +8,18 @@ permalink: /curriculum/
 
 To participate in the summer school students need to master the **basics in Linear Algebra and Analysis** and have an **advanced level in Python programming**.
 
-Preparatory material to reach a bsaic level in **Machine Learning** will be distributed beforehand. It is expected that the students prepare themselves with these documents for the summer school.
+Preparatory material to reach a basic level in **Machine Learning** will be distributed beforehand. It is expected that the students prepare themselves with these documents for the summer school.
 
 English Level B2 is compulsory.
 
-## Programme structure 
-During the mornings, you will receive inputs and lectures, followed by structured excercises in a lab. In the afternoon you will work in teams on a challenge /task as project work.
+## Program structure 
+During the mornings, you will receive inputs and lectures, followed by structured exercises in a lab. In the afternoon you will work in teams on a challenge /task as project work.
 
 At the end of week two (part ZHAW SoE), the teams will present their solutions to a jury.
 
 Topical and touristic excursion complement the academic curriculum.
 
-## Programme (tbc)
+## Program (tbc)
 
 
 [DOWNLOAD THE DRAFT SYLLABUS OF THE CURRICULUM](assets/images/Syllabus_v3_web_Dec23.pdf)
@@ -29,7 +29,7 @@ Topical and touristic excursion complement the academic curriculum.
 
 |        |Sun 30.6|Mon 1.7|Tue 2.7|Wen 3.7|Thu 4.7|Fri 5.7|Sat 6.7|Sun 7.7.|
 |--------|--------|-------|-------|-------|-------|-------|-------|--------|
-|**Morning** |Arrival US guests|*Lecture*: Data Science-Process and Elements of Exploratory Data Analysis, *Lab*: Development Environment and The Python Data Science stack|*Lecture:* Data Curation, Data Integration, Data Extraction, Data Wrangling and Exploration, Record Linkage, *Lab*:Data Extraction, Data Wrangling and Exploration|*Lecture*: Pre-processing and Feature Extraction, Unstructured Data: Text and Images, *Lab*: tbd|*Lecture*: Data Annotation and Scaling, Data Centric AI, Big Data, *Lab*: Data Annotation and Parallel data processing with Dask|Topical excursion to a company dealing with large data sets (full day)|Excursion [Rhine Fall](https://rheinfall.ch/en/) & [Alpstein Mountain Range](https://www.appenzell.ch/en/alpstein.html) incl overnight stay|Short hike and transfer back to Wintherthur|
+|**Morning** |Arrival US guests|*Lecture*: Data Science-Process and Elements of Exploratory Data Analysis, *Lab*: Development Environment and The Python Data Science stack|*Lecture:* Data Curation, Data Integration, Data Extraction, Data Wrangling and Exploration, Record Linkage, *Lab*: Data Extraction, Data Wrangling and Exploration|*Lecture*: Pre-processing and Feature Extraction, Unstructured Data: Text and Images, *Lab*: tbd|*Lecture*: Data Annotation and Scaling, Data Centric AI, Big Data, *Lab*: Data Annotation and Parallel data processing with Dask|Topical excursion to a company dealing with large data sets (full day)|Excursion [Rhine Fall](https://rheinfall.ch/en/) & [Alpstein Mountain Range](https://www.appenzell.ch/en/alpstein.html) incl overnight stay|Short hike and transfer back to Wintherthur|
 |**Afternoon**|Arrival US guests and welcome barbecue|Data Science Project: Introduction and Selection of Project|Data Science Project: Project Work, Data Management, Data Report|Data Science Project: Project work in groups and individual supervision|Project checkpoint presentations and discussions|4 pm: Frack parade and [night of technology](https://www.zhaw.ch/de/engineering/ueber-uns/veranstaltungen/nacht-der-technik/) at ZHAW SoE|Excursion Rhine Fall & Alpstein Mountain Range incl overnight stay|Free time|
 
 

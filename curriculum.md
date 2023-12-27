@@ -27,7 +27,7 @@ Topical and touristic excursion complement the academic curriculum.
 
 ### Week 1 at ZHAW: Data Engineering, lecturer: Dr. Jonathan Fürst 
 
-|        |Sat 29.6|Sun 30.6|Mon 1.7|Tue 2.7|Wen 3.7|Thu 4.7|Fri 5.7|Sat 6.7|Son 7.7.|
+|        |Sat 29.6|Sun 30.6|Mon 1.7|Tue 2.7|Wen 3.7|Thu 4.7|Fri 5.7|Sat 6.7|Sun 7.7.|
 |--------|---------|--------|-------|-------|-------|-------|-------|-------|--------|
 |Morning |         |        |*Lecture*: Data Science-Process and Elements of Exploratory Data Analysis, *Lab*: Development Environment and The Python Data Science stack|*Lecture:* Data Curation, Data Integration, Data Extraction, Data Wrangling and Exploration, Record Linkage, *Lab*:Data Extraction, Data Wrangling and Exploration|*Lecture*: Pre-processing and Feature Extraction, Unstructured Data: Text and Images, *Lab*: tbd|*Lecture*: Data Annotation and Scaling, Data Centric AI, Big Data, *Lab*: Data Annotation and Parallel data processing with Dask|Topical excursion to a company dealing with large data sets (full day)|Excursion Rhine Fall & Alpstein Mountain Range incl overnight stay|Excursion Rhine Fall & Alpstein Mountain Range incl overnight stay|
 |Afternoon|Arrival US guests|Welcome Barbecue|Data Science Project: Introduction and Selection of Project|Data Science Project: Project Work, Data Management, Data Report|Data Science Project: Project work in groups and individual supervision|Project checkpoint presentations and discussions|4 pm: Frack parade and night of technology at ZHAW SoE|Excursion Rhine Fall & Alpstein Mountain Range incl overnight stay|Excursion Rhine Fall & Alpstein Mountain Range incl overnight stay|
@@ -40,6 +40,10 @@ Topical and touristic excursion complement the academic curriculum.
 |Morning |*Lecture*: Regression, Classification, Evaluation, *Lab*: Supervised Learning using the Python Stack| *Lecture*: Clustering, Anomaly Detection, Evaluation, *Lab*:  Unsupervised Learning using the Python Stack|*Lecture*: Association rules- recommender systems, *Lab*:  Recommender Systems using the Python Stack|*Data Science Project*: Project work in groups and individual supervision|Full day excursion to Berne incl visit of the federal parliament building|Transfer to Allendale, Michigan, USA for second part of summer school on the GVSU campus|
 |Afternoon|*Data Science Project*: Project work in groups and individual supervision|*Data Science Project*: Project work in groups and individual supervision|*Data Science Project*: Project work in groups and individual supervision|*Data Science Project*: Project presentations and discussions, evaluation, celebration and reception|Full day excursion to Berne incl visit of the federal parliament building|Transfer to Allendale, Michigan, USA for second part of summer school on the GVSU campus|
 
-## Week 3: Deep Learning (GVSU)
+## Week 3: Deep Learning (GVSU), lecturer Dr. Denton Bobeldyk
+
+|        |Mon 15.7|Tue 16.7|Wen 17.7|Thu 18.7|Fri 19.7|Sat 20.7|Sun 21.7|
+|--------|---------|--------|-------|-------|-------|-------|-------|
+|Morning|*Lecture*:
 
 ## Week 4: Data Visualization (GVSU)

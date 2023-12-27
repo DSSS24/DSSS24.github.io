@@ -50,7 +50,7 @@ Topical and touristic excursion complement the academic curriculum.
 ### Week 4: Data Visualization (GVSU), lecturer  Dr. Jonathan Leidig
 
 |        |Mon 22.7|Tue 23.7|Wen 124.7|Thu 25.7|Fri 26.7|Sat 27.7|
-|--------|---------|--------|-------|-------|-------|--------|
+|--------|---------|--------|-------|-------|-------|---------|
 |**Morning**|*Lecture*: Intro to visualization and design principles, *Exercises*: Human cognition and UX concepts|*Lecture*: Descriptive chart design, persona & task modeling, *Exercises*: Gestalt psychology, user/persona modeling, task modeling|*Lecture*: Multi-dimensional datasets, overviews, navigation and exploration with large datasets, *Lab*: Group project|*Lecture*: Tree, network, spatial analysis, persuasion, *Lab*: Group project|Excursion to [Chicago](https://www.chicago.gov/city/en.html)|Free Time in Chicago and closure of summer school|
 |**Afternoon**|*Visual analytics projects*: Exploratory data analysis lab with Tableau|*Visual analytics projects*: Statistical charts lab with programming librarie|*Visual analytics projects*: Visualization design with D3, Gephi, GIS, or Google Cloud Platform packages|*Visual analytics projects*: Project presentations, evaluation, celebration|Free time in Chicago and  overnight stay at [Chicago Hostel-International](https://hihostels.com/hostels/hi-chicago/)|
 

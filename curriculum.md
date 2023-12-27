@@ -47,4 +47,7 @@ Topical and touristic excursion complement the academic curriculum.
 |**Morning**|*Lecture*: Convolutional Neural Networks, Deep learning evaluation methods, *Group Lab*|*Lecture*: Deep learning dataset management and augmentation, *Group Lab*|*Lecture*: Deep learning evaluation methods, Autoencoders & GANs, *Group Lab*|*Lecture*: Introduction to Group Deep Learning, *Project Lab presentation preparation*|Excursion to [Sleeping Bear Dunes](https://www.nps.gov/slbe/index.htm)|Tour historic Fort Michilimackinac and ferry to [Mackinac Island](https://www.mackinacisland.org/)|
 |**Afternoon**|Group Deep Learning Project and Morning Lecture Review Kahoot|Group Deep Learning Project and Morning Lecture Review Kahoot|Group Deep Learning Project and Morning Lecture Review Kahoot|Project presentations, discussions, evaluation and celebration|Catamaran Ride and overnight stay in [Mackinaw City, MI](https://mackinawcity.com/)|Transfer back to Allendale|
 
-### Week 4: Data Visualization (GVSU)
+### Week 4: Data Visualization (GVSU), lecturer  Dr. Jonathan Leidig
+|        |Mon 22.7|Tue 23.7|Wen 124.7|Thu 25.7|Fri 26.7|Sat 27.7|
+|--------|---------|--------|-------|-------|-------|-------|
+|**Morning**|*Lecture*: Intro to visualization and design principles, *Exercises*: Human cognition and UX concepts|*Lecture*: Descriptive chart design, persona & task modeling, *Exercises*: Gestalt psychology, user/persona modeling, task modeling

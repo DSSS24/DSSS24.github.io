@@ -44,6 +44,6 @@ Topical and touristic excursion complement the academic curriculum.
 
 |        |Mon 15.7|Tue 16.7|Wen 17.7|Thu 18.7|Fri 19.7|Sat 20.7|Sun 21.7|
 |--------|---------|--------|-------|-------|-------|-------|-------|
-|Morning|*Lecture*:
+|Morning|*Lecture*: Convolutional Neural Networks, Deep learning evaluation methods, *Group Lab*|*Lecture*: Deep learning dataset management and augmentation *Group Lab*|*Lecture*: Deep learning evaluation methods, Autoencoders & GANs 
 
 ## Week 4: Data Visualization (GVSU)
